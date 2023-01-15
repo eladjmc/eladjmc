@@ -1,6 +1,5 @@
 - 👋 Hi, My name is Elad
-- 👀 I’m interested in Software developing
-- 🌱 I’m currently learning web technologies.
+- 👀 I’m interested in Web technologies and DevOps technologies and currently looking for a job.
 - 📫 How to reach me: https://www.linkedin.com/in/elad-harel-06ab61183/
 
 
