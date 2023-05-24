@@ -2,7 +2,7 @@
   
 
 <p align="center">
-  <img src="https://hawkticehurst.com/imgs/hero.png" alt="Alt Text" width="600" height="300">
+  <img src="https://hawkticehurst.com/imgs/hero.png" alt="Alt Text" width="650" height="500">
 </p>
   
   <hr>
