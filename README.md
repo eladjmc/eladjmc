@@ -9,8 +9,8 @@
 
 
 - 👋 Hi, My name is `Elad`
-- 👀 I’m interested in Web technologies and DevOps technologies and currently looking for a job.
-- 📫 How to reach me ===>
+- 👀 I’m interested in Web technologies - currently looking for a full-stack/frontend position.
+- 📫 How to reach me ==>
 
      [![Linkedin Badge](https://img.shields.io/badge/-Elad%20Harel-blue?style=flat-square&logo=Linkedin&logoColor=white&link&=https://www.linkedin.com/in/elad-harel-06ab61183/)](https://www.linkedin.com/in/elad-harel-06ab61183/) 
 [![Gmail Badge](https://img.shields.io/badge/-Eladjmc88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Eladjmc88@gmail.com)](mailto:benben95939@gmail.com)
