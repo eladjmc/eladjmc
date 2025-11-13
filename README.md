@@ -9,7 +9,7 @@
 
 
 - 👋 Hi, My name is `Elad`
-- 👀 Currently an instructor at Appleseed's academy, teaching full-stack course.
+- 👀 Currently a full-stack developer at Webiks.
 - 📫 How to reach me ==>
 
      [![Linkedin Badge](https://img.shields.io/badge/-Elad%20Harel-blue?style=flat-square&logo=Linkedin&logoColor=white&link&=https://www.linkedin.com/in/elad-harel-06ab61183/)](https://www.linkedin.com/in/elad-harel-06ab61183/) 
